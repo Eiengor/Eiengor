@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi everyone! I am Eingor;)
 
-<!--
-**Eiengor/Eiengor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Real name - **Oleh**
+- 🔭 I’m a student at Lviv National University. Faculty of Aplied Methemathics and Informatics⚡
+- 🌱 My specialization is **.Net Software Development** and a little bit of **C++ Development**
+- 🎵 Fun fact: My Dark side - Musician
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+  
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/oleh-haiduchok-29a724292/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💾 Main Stack
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,postgres)](https://skillicons.dev)
+
+### 🔭 Additional Stack
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,mongodb,mysql,docker,redis,git,linux,py,octave,react,js,html,css,latex,postman)](https://skillicons.dev)
+- Also subjects what I'm looking to learn)
+
+### 🤘 Projects
+- Oops! Here is nothing(
+- Just wait a little bit!
