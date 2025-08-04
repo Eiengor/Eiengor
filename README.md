@@ -17,5 +17,5 @@
 - Also subjects what I'm looking to learn)
 
 ### 🤘 Projects
-- Oops! Here is nothing(
-- Just wait a little bit!
+- [Mandelbrot Set](https://github.com/Eiengor/Mandelbrot_Set)
+- To be continued...
